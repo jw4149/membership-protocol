@@ -1,0 +1,11 @@
+.DS_Store
+.vscode/
+
+Application
+*.o
+
+dbg*.log
+msgcount.log
+stats.log
+machine.log
+grade-dir/
